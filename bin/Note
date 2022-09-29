@@ -1,0 +1,15 @@
+type casting
+type casting is converting the type of data from one data type to another data type.
+we have two type of type casting.
+1/Explict/Narrowing/manual
+2/ Implicit/widening/Automatic
+when we go from  BIGGER data type to SMALLER one it is called Explict/Narrowing/manual.  
+when we go from SMALLER data type to LARGER data type we called it Implicit/widening/Automatic.
+
+if statement
+if else  conditions  allow us to write programs that can take decision based on some condition and provided date.
+
+if condition
+if else condition
+if else of condition
+nested if else condition

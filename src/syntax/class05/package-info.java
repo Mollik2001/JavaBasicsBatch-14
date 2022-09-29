@@ -1,0 +1,1 @@
+package syntax.class05;

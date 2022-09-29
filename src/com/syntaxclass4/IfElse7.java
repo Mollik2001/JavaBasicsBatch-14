@@ -1,0 +1,18 @@
+package com.syntaxclass4;
+
+public class IfElse7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+
+}
